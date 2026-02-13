@@ -1,0 +1,114 @@
+MIT License
+
+Copyright (c) 2025 JephMD (Jepherson Rodriguez)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+                              DISCLAIMER / DESCARGO
+================================================================================
+
+IMPORTANT NOTICE / AVISO IMPORTANTE:
+
+This software modifies Windows system settings and configurations. While 
+designed to improve system performance, users should:
+
+Este software modifica configuraciones del sistema Windows. Aunque está 
+diseñado para mejorar el rendimiento del sistema, los usuarios deben:
+
+1. CREATE A SYSTEM RESTORE POINT before using this tool
+   CREAR UN PUNTO DE RESTAURACIÓN antes de usar esta herramienta
+
+2. Understand that modifications are made at your own risk
+   Comprender que las modificaciones se realizan bajo su propio riesgo
+
+3. Review the code before execution to understand what changes will be made
+   Revisar el código antes de ejecutarlo para entender qué cambios se harán
+
+4. Be aware that some antivirus software may flag system optimization tools
+   Ser consciente de que algunos antivirus pueden marcar herramientas de optimización
+
+5. Not hold the author responsible for any system issues that may arise
+   No responsabilizar al autor por problemas que puedan surgir en el sistema
+
+The author provides this tool for educational and optimization purposes only.
+El autor proporciona esta herramienta solo con fines educativos y de optimización.
+
+USE AT YOUR OWN RISK / USAR BAJO SU PROPIO RIESGO
+
+================================================================================
+                            TERMS OF USE / TÉRMINOS DE USO
+================================================================================
+
+By using OptiMD, you agree to:
+Al usar OptiMD, usted acepta:
+
+✓ Use the software responsibly and at your own risk
+  Usar el software de manera responsable y bajo su propio riesgo
+
+✓ Not use this software for malicious purposes
+  No usar este software con fines maliciosos
+
+✓ Understand that system modifications can affect stability
+  Entender que las modificaciones del sistema pueden afectar la estabilidad
+
+✓ Create backups before making system changes
+  Crear respaldos antes de realizar cambios en el sistema
+
+✓ Respect the intellectual property rights of the author
+  Respetar los derechos de propiedad intelectual del autor
+
+================================================================================
+                        ATTRIBUTION / ATRIBUCIÓN
+================================================================================
+
+If you use, modify, or distribute this software, please provide attribution:
+Si usa, modifica o distribuye este software, por favor proporcione atribución:
+
+Project: OptiMD - Windows Optimizer
+Author: JephMD (Jepherson Rodriguez)
+Repository: https://github.com/jephersonRD/OptiMD
+YouTube: https://www.youtube.com/@jephmd
+TikTok: @JephMD
+
+================================================================================
+                    CONTRIBUTIONS / CONTRIBUCIONES
+================================================================================
+
+Contributions, issues, and feature requests are welcome!
+¡Las contribuciones, problemas y solicitudes de características son bienvenidas!
+
+Feel free to check the issues page on GitHub.
+No dude en consultar la página de problemas en GitHub.
+
+================================================================================
+                        SUPPORT / SOPORTE
+================================================================================
+
+For support, questions, or feedback:
+Para soporte, preguntas o comentarios:
+
+- Open an issue on GitHub / Abra un issue en GitHub
+- Contact via YouTube / Contacte vía YouTube
+- Follow on TikTok for updates / Siga en TikTok para actualizaciones
+
+================================================================================
+
+Version: 1.0
+Last Updated: February 2025
