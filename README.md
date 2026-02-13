@@ -1,36 +1,48 @@
-# 🚀 OptiMD - Optimizador Windows 10/11
-
 <div align="center">
+
+# 🚀 OptiMD - Windows 10/11 Optimizer & Performance Booster
 
 ![OptiMD Banner](https://img.shields.io/badge/OptiMD-v1.0-blue?style=for-the-badge&logo=windows)
 [![Windows 10](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 [![GitHub stars](https://img.shields.io/github/stars/jephersonRD/OptiMD?style=for-the-badge&logo=github)](https://github.com/jephersonRD/OptiMD/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jephersonRD/OptiMD?style=for-the-badge&logo=github)](https://github.com/jephersonRD/OptiMD/network)
+[![GitHub issues](https://img.shields.io/github/issues/jephersonRD/OptiMD?style=for-the-badge&logo=github)](https://github.com/jephersonRD/OptiMD/issues)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/jephersonRD/OptiMD/total?style=for-the-badge&logo=github)](https://github.com/jephersonRD/OptiMD/releases)
+[![YouTube](https://img.shields.io/badge/YouTube-JephMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jephmd)
 
-**Un optimizador potente y fácil de usar para maximizar el rendimiento de tu PC Windows** 💻⚡
+### ⚡ Optimizador de PC Gratuito | Aumenta FPS | Reduce Lag | Gaming Performance
 
-[🌟 Características](#-características) • [📥 Instalación](#-instalación) • [🎮 Uso](#-uso) • [⚠️ Advertencias](#️-advertencias) • [🤝 Contribuir](#-contribuir)
+**El mejor optimizador gratuito para Windows 10/11.** Mejora rendimiento en juegos, reduce lag, aumenta FPS y optimiza tu PC con un solo clic. Ideal para gaming, streamers y PCs de gama baja.
+
+**🔑 Keywords:** `windows optimizer` `pc optimization` `gaming performance` `fps boost` `windows tweaks` `system optimizer` `reduce lag` `gaming tweaks` `windows 10 optimizer` `windows 11 optimizer` `free pc optimizer` `boost fps`
+
+[⬇️ Descargar Ahora](#-instalación-rápida--quick-installation-guide) | [📖 Documentación](#-características) | [🎮 Gaming Tweaks](#-juegos-optimizados) | [⭐ Star en GitHub](https://github.com/jephersonRD/OptiMD)
 
 </div>
 
 ---
 
-## 📖 Descripción
+## 📖 Descripción | Description
 
-**OptiMD** es una herramienta integral de optimización diseñada para mejorar significativamente el rendimiento de equipos con Windows 10 y Windows 11. Ideal para **gamers**, **creadores de contenido** y usuarios que buscan exprimir al máximo su hardware, especialmente en equipos de gama baja y media.
+**OptiMD** es el **optimizador de Windows más completo y gratuito** diseñado para mejorar significativamente el rendimiento de equipos con Windows 10 y Windows 11. Aumenta tus FPS en juegos, reduce el lag, optimiza el uso de RAM y CPU, y hace que tu PC funcione como nuevo.
 
-### 🎯 ¿Para quién es OptiMD?
+### 🎯 ¿Para quién es OptiMD? | Who is it for?
 
-- ✅ Gamers que buscan más FPS y menor latencia
-- ✅ Creadores de contenido que necesitan máximo rendimiento
-- ✅ Usuarios con PCs de gama baja o media
-- ✅ Cualquiera que quiera un Windows más rápido y eficiente
+- 🎮 **Gamers** - Aumenta FPS hasta 30% en CS:GO, Valorant, Fortnite, GTA V, Minecraft
+- 🎥 **Streamers** - Optimiza OBS y reduce lag durante transmisiones
+- 💻 **PCs Gama Baja/Media** - Mejora rendimiento en equipos con recursos limitados
+- ⚡ **Usuarios Avanzados** - Control total sobre optimizaciones de Windows
+- 🏢 **Oficinas** - Acelera Windows para trabajo productivo
 
 ---
 
-## ✨ Características
+---
+
+## ✨ Características Principales | Main Features
+
+> 🎯 **30+ Optimizaciones Profesionales** para Windows 10 y Windows 11
 
 <table>
 <tr>
@@ -65,7 +77,11 @@
 
 ---
 
-## 📥 Instalación
+---
+
+## 📥 Instalación Rápida | Quick Installation Guide
+
+### Descarga e Instala OptiMD en 3 Pasos
 
 ### Método 1: Descarga Directa
 
@@ -82,7 +98,11 @@ cd OptiMD
 
 ---
 
-## 🎮 Uso
+---
+
+## 📖 Cómo Usar OptiMD | User Guide
+
+### Guía Completa de Optimización
 
 ### 🚀 Inicio Rápido
 
@@ -160,9 +180,13 @@ Si experimentas problemas, puedes:
 
 ---
 
-## 🎯 Juegos Optimizados
+---
 
-OptiMD configura alta prioridad de CPU para:
+## 🎮 Juegos Optimizados | Optimized Games
+
+### Aumenta FPS y Reduce Lag en los Juegos Más Populares
+
+OptiMD configura **alta prioridad de CPU** automáticamente para:
 
 - 🎮 Counter-Strike: Global Offensive (csgo.exe)
 - 🎮 Counter-Strike 2 (cs2.exe)
@@ -186,7 +210,11 @@ OptiMD configura alta prioridad de CPU para:
 
 ---
 
-## 📊 Rendimiento Esperado
+---
+
+## 📊 Resultados Comprobados | Performance Benchmarks
+
+### Mejoras Reales en Rendimiento de PC y Gaming
 
 Los resultados varían según el hardware, pero usuarios reportan:
 
@@ -198,7 +226,9 @@ Los resultados varían según el hardware, pero usuarios reportan:
 
 ---
 
-## 🤝 Contribuir
+---
+
+## 🤝 Contribuir al Proyecto | How to Contribute
 
 ¡Las contribuciones son bienvenidas! 🎉
 
@@ -218,13 +248,82 @@ Si encuentras un bug, por favor [abre un issue](https://github.com/jephersonRD/O
 
 ---
 
-## 📜 Licencia
+---
+
+## 🔍 FAQ | Preguntas Frecuentes
+
+<details>
+<summary><b>¿OptiMD es seguro para mi PC?</b></summary>
+Sí, OptiMD solo modifica configuraciones de Windows de forma segura. Todas las optimizaciones son reversibles y se recomienda crear un punto de restauración antes de usarlo.
+</details>
+
+<details>
+<summary><b>¿Funciona en Windows 10 y 11?</b></summary>
+Sí, OptiMD está completamente optimizado y probado para Windows 10 y Windows 11 (Home, Pro y Enterprise).
+</details>
+
+<details>
+<summary><b>¿Cuánto FPS puedo ganar en juegos?</b></summary>
+Los resultados varían según tu hardware, pero usuarios reportan mejoras de 10-30% en FPS, especialmente en PCs de gama baja y media.
+</details>
+
+<details>
+<summary><b>¿Puedo revertir los cambios?</b></summary>
+Sí, muchas opciones tienen reversa incluida, y siempre puedes usar el punto de restauración creado antes de aplicar optimizaciones.
+</details>
+
+<details>
+<summary><b>¿Es gratis?</b></summary>
+Sí, OptiMD es 100% gratuito y open source bajo licencia MIT.
+</details>
+
+---
+
+## 📊 Estadísticas del Proyecto | Project Stats
+
+![GitHub repo size](https://img.shields.io/github/repo-size/jephersonRD/OptiMD?style=flat-square)
+![GitHub code size](https://img.shields.io/github/languages/code-size/jephersonRD/OptiMD?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/jephersonRD/OptiMD?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jephersonRD/OptiMD?style=flat-square)
+
+---
+
+## 🔗 Enlaces Útiles | Useful Links
+
+- 📺 [Tutorial en YouTube](https://www.youtube.com/@jephmd) - Aprende a usar OptiMD
+- 🎵 [TikTok - JephMD](https://www.tiktok.com/@jephmd) - Tips y trucos
+- 💬 [Reportar un Bug](https://github.com/jephersonRD/OptiMD/issues) - Ayúdanos a mejorar
+- ⭐ [Dar Star](https://github.com/jephersonRD/OptiMD) - Apoya el proyecto
+- 🔄 [Releases](https://github.com/jephersonRD/OptiMD/releases) - Descargar versiones
+
+---
+
+## 🏆 Reconocimientos | Credits
+
+Gracias a todos los que han contribuido y apoyado este proyecto:
+
+- ⭐ Todos los que dieron star al repositorio
+- 🐛 Reportadores de bugs y testers
+- 💡 Contribuidores de código
+- 📢 Quienes comparten el proyecto
+
+---
+
+## 📜 Licencia | License
 
 Este proyecto está bajo la licencia **MIT** - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
-## 👨‍💻 Creador
+---
+
+## 🌟 Star History | GitHub Analytics
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jephersonRD/OptiMD&type=Date)](https://star-history.com/#jephersonRD/OptiMD&Date)
+
+---
+
+## 👨‍💻 Creador | Developer & Creator
 
 <div align="center">
 
@@ -240,32 +339,45 @@ Este proyecto está bajo la licencia **MIT** - ver el archivo [LICENSE](LICENSE)
 
 ---
 
-## 📞 Soporte
+---
 
-¿Necesitas ayuda? Aquí tienes varias opciones:
+## 💝 Apoya el Proyecto | Support the Project
 
-- 💬 [Abrir un Issue](https://github.com/jephersonRD/OptiMD/issues)
-- 📺 [Ver tutoriales en YouTube](https://www.youtube.com/@jephmd)
-- 🐙 [Contactar en GitHub](https://github.com/jephersonRD)
+Si **OptiMD** te ha sido útil, considera:
+
+- ⭐ **Dar una estrella** en GitHub - ¡Es gratis y ayuda mucho!
+- 🔄 **Compartir** con tus amigos gamers y streamers
+- 📺 **Suscribirte** a mi [canal de YouTube](https://www.youtube.com/@jephmd)
+- 🎵 **Seguirme** en [TikTok @JephMD](https://www.tiktok.com/@jephmd)
+- 🐛 **Reportar bugs** para mejorar la herramienta
+- 💬 **Dejar un comentario** con tu experiencia y FPS ganados
 
 ---
 
-## 🌟 Agradecimientos
+## 📞 Soporte | Support
 
-Gracias a todos los que han contribuido y apoyado este proyecto. ¡Ustedes hacen que OptiMD sea mejor! 💙
+¿Necesitas ayuda? Aquí tienes varias opciones:
+
+- 💬 [Abrir un Issue](https://github.com/jephersonRD/OptiMD/issues) - Reporta bugs o pide features
+- 📺 [Ver tutoriales en YouTube](https://www.youtube.com/@jephmd) - Guías paso a paso
+- 🐙 [Contactar en GitHub](https://github.com/jephersonRD) - Contacto directo
+
+---
 
 ---
 
 <div align="center">
 
-### ⚡ Hecho con ❤️ para la comunidad de Windows ⚡
+### 🚀 ¿Listo para Optimizar tu PC y Aumentar tus FPS?
 
-**Si OptiMD te ayudó, considera darle una ⭐ y compartirlo con tus amigos!**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jephersonRD/OptiMD&type=Date)](https://star-history.com/#jephersonRD/OptiMD&Date)
+[⬇️ Descargar OptiMD v1.0](https://github.com/jephersonRD/OptiMD/releases) | [⭐ Dar Star en GitHub](https://github.com/jephersonRD/OptiMD) | [📺 Ver Tutorial](https://www.youtube.com/@jephmd)
 
 ---
 
-**© 2024 JephMD - Todos los derechos reservados**
+**Creado con ❤️ por [JephMD](https://github.com/jephersonRD) para la comunidad gamer y de Windows**
+
+`#WindowsOptimizer` `#GamingPerformance` `#FPSBoost` `#PCOptimization` `#Windows10` `#Windows11` `#FreeSoftware` `#OpenSource` `#GamingTweaks` `#ReduceLag`
+
+**© 2024-2026 JephMD - Licencia MIT - Gratis y Open Source**
 
 </div>
